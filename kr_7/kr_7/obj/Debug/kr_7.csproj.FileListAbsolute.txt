@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\kr_7\kr_7\bin\Debug\kr_7.exe.config
+C:\Users\1\source\repos\kr_7\kr_7\bin\Debug\kr_7.exe
+C:\Users\1\source\repos\kr_7\kr_7\bin\Debug\kr_7.pdb
+C:\Users\1\source\repos\kr_7\kr_7\obj\Debug\kr_7.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\kr_7\kr_7\obj\Debug\kr_7.Properties.Resources.resources
+C:\Users\1\source\repos\kr_7\kr_7\obj\Debug\kr_7.csproj.GenerateResource.cache
+C:\Users\1\source\repos\kr_7\kr_7\obj\Debug\kr_7.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\kr_7\kr_7\obj\Debug\kr_7.exe
+C:\Users\1\source\repos\kr_7\kr_7\obj\Debug\kr_7.pdb
+C:\Users\1\source\repos\kr_7\kr_7\obj\Debug\kr_7.CircleRingCalculatorForm.resources
