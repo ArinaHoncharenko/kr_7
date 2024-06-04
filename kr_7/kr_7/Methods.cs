@@ -21,6 +21,7 @@ namespace kr_7
             float stepX = width / (float)numMarks;
             float stepY = height / (float)numMarks;
 
+
             //  позначки на вертикальній вісі
             for (int i = -19; i <= numMarks; i++)
             {
